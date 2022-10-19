@@ -1,0 +1,56 @@
+*{
+margin : 0;
+padding: 0; 
+box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    padding: 0px 15px;
+    max-width: 1200px;
+    margin-top: 40px;
+
+}
+.awesome__title{
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: 'Raleway';
+}
+.awesome__line{
+    border: 1px solid #EC7979;
+    width: 170px;
+    height: 1px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.awesome__text{
+    font-family: 'Raleway';
+    text-align: center;
+    color: #86878B;
+}
+.awesome__benefits-img{
+    border-radius: 50% ;
+    padding: 2px;
+    margin: calc( ( 371px - 92.25px) /2 );
+    margin-bottom: 24px;
+
+
+}
+
+.awesome__title2{
+    font-family: 'Open Sans';
+    text-align: center;
+}
+.awesome__text2{
+    font-family: 'Raleway';
+    margin-top: 26px;
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+}
+
+.awesome__benefits{
+    display: flex;
+}
+.awesome__item{
+    margin-right: 27px
+}
